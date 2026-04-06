@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 
-This project showcases an interactive **Power BI dashboard** built to analyze salary data across different roles, industries, and experience levels.
+This project showcases an interactive **Power BI dashboard** built to analyze salary data across different roles, and experience levels.
 
-The dashboard helps uncover patterns in compensation, allowing users to understand how factors like job role, experience, and location impact salary.
+The dashboard helps uncover patterns in compensation, allowing users to understand how factors like job role, experience impact salary.
 
 ---
 
@@ -24,8 +24,6 @@ The dataset used in this project includes:
 * Job Title / Role
 * Salary (Annual/Monthly)
 * Experience Level
-* Location
-* Industry (if applicable)
 
 *(Dataset source: Sample/collected dataset for analysis purposes)*
 
@@ -36,7 +34,6 @@ The dataset used in this project includes:
 * 📈 Salary trends and distribution
 * 🧑‍💼 Role-wise salary comparison
 * 📊 Experience vs Salary analysis
-* 🌍 Location-based salary insights
 * 🎛️ Interactive filters (slicers) for dynamic exploration
 
 ---
@@ -53,7 +50,6 @@ The dataset used in this project includes:
 
 * Salaries increase significantly with experience
 * Certain roles consistently offer higher pay
-* Location plays a major role in salary variation
 * Mid-level professionals show the highest growth rate
 
 ---
@@ -70,21 +66,6 @@ The dataset used in this project includes:
 
 (Add your dashboard screenshot here)
 
----
-
-## 💡 Future Improvements
-
-* Add real-time salary data
-* Include predictive salary trends
-* Expand dataset with more industries
-* Deploy dashboard to Power BI Service
-
----
-
-## 👨‍💻 Author
-
-Vinay H Senva
-B.Tech IT Student | Aspiring Data Analyst
 
 ---
 
