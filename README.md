@@ -81,6 +81,10 @@ The dataset used in this project includes:
 ---
 ## Interactive Dashboard Video
 
+This is an Interactive video of salary dashboard to show how indicators changes and how the line chart changes as per each job.
+
+https://github.com/user-attachments/assets/ab0ec623-0f41-4d9d-b96a-4efd6de50e2a
+
 ---
 ## ⭐ Conclusion
 
