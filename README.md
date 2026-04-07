@@ -8,6 +8,11 @@ The dashboard helps uncover patterns in compensation, allowing users to understa
 
 ---
 
+
+## 📷 Dashboard Preview
+
+![alt text](<Screenshot 2026-04-07 134806.png>)
+
 ## 🎯 Objectives
 
 * Analyze salary distribution across different job roles
@@ -54,20 +59,28 @@ The dataset used in this project includes:
 
 ---
 
-## 🚀 How to Use
+## Highlights
 
-1. Download the `.pbix` file
-2. Open it in Power BI Desktop
-3. Use slicers and visuals to explore insights
+* 1.Using <B><i> cards </i></B> i have make 4 indicators:
+</br>-> total number of jobs
+</br>-> average salary
+</br>-> Minimum salary
+</br>-> Maximum salary
 
+![alt text](<Screenshot 2026-04-07 134706.png>)
+
+* 2.Using <b><i>Line chart</i></b> taking YearExperince on X-axis and Salary on Y-axis i have make a Salary by YearExperience line chart showing salary wrogth by year.
+</br>
+
+![alt text](<Screenshot 2026-04-07 134726.png>)
+
+* 3.Using <b><i>Clustered bar chart</i></b> taking job on X-axis and salary on Y-axis i have created a salry by job clustered bar chart showing jobs order acording to there salaries at the <b>Top</b> Senior Data Engineer job is with highest Salary and at the <b>Bottom</b> Junior Data Analyst with lowest salary. 
+</br>
+
+![alt text](<Screenshot 2026-04-07 134743.png>)
 ---
+## Interactive Dashboard Video
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
-
----
 
 ## ⭐ Conclusion
 
