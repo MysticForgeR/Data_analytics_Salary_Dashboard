@@ -2,11 +2,16 @@
 
 ## 📌 Project Overview
 
-This project showcases an interactive **Power BI dashboard** built to analyze salary data across different roles, industries, and experience levels.
+This project showcases an interactive **Power BI dashboard** built to analyze salary data across different roles, and experience levels.
 
-The dashboard helps uncover patterns in compensation, allowing users to understand how factors like job role, experience, and location impact salary.
+The dashboard helps uncover patterns in compensation, allowing users to understand how factors like job role, experience impact salary.
 
 ---
+
+
+## 📷 Dashboard Preview
+
+![alt text](<Screenshot 2026-04-07 134806.png>)
 
 ## 🎯 Objectives
 
@@ -24,8 +29,6 @@ The dataset used in this project includes:
 * Job Title / Role
 * Salary (Annual/Monthly)
 * Experience Level
-* Location
-* Industry (if applicable)
 
 *(Dataset source: Sample/collected dataset for analysis purposes)*
 
@@ -36,7 +39,6 @@ The dataset used in this project includes:
 * 📈 Salary trends and distribution
 * 🧑‍💼 Role-wise salary comparison
 * 📊 Experience vs Salary analysis
-* 🌍 Location-based salary insights
 * 🎛️ Interactive filters (slicers) for dynamic exploration
 
 ---
@@ -53,41 +55,33 @@ The dataset used in this project includes:
 
 * Salaries increase significantly with experience
 * Certain roles consistently offer higher pay
-* Location plays a major role in salary variation
 * Mid-level professionals show the highest growth rate
 
 ---
 
-## 🚀 How to Use
+## Highlights
 
-1. Download the `.pbix` file
-2. Open it in Power BI Desktop
-3. Use slicers and visuals to explore insights
+* 1.Using <B><i> cards </i></B> i have make 4 indicators:
+</br>-> total number of jobs
+</br>-> average salary
+</br>-> Minimum salary
+</br>-> Maximum salary
+
+![alt text](<Screenshot 2026-04-07 134706.png>)
+
+* 2.Using <b><i>Line chart</i></b> taking YearExperince on X-axis and Salary on Y-axis i have make a Salary by YearExperience line chart showing salary wrogth by year.
+</br>
+
+![alt text](<Screenshot 2026-04-07 134726.png>)
+
+* 3.Using <b><i>Clustered bar chart</i></b> taking job on X-axis and salary on Y-axis i have created a salry by job clustered bar chart showing jobs order acording to there salaries at the <b>Top</b> Senior Data Engineer job is with highest Salary and at the <b>Bottom</b> Junior Data Analyst with lowest salary. 
+</br>
+
+![alt text](<Screenshot 2026-04-07 134743.png>)
+---
+## Interactive Dashboard Video
 
 ---
-
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here)
-
----
-
-## 💡 Future Improvements
-
-* Add real-time salary data
-* Include predictive salary trends
-* Expand dataset with more industries
-* Deploy dashboard to Power BI Service
-
----
-
-## 👨‍💻 Author
-
-Vinay H Senva
-B.Tech IT Student | Aspiring Data Analyst
-
----
-
 ## ⭐ Conclusion
 
 This dashboard provides valuable insights into salary trends and helps users make informed career decisions using data visualization.
